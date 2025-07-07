@@ -20,21 +20,8 @@ A dynamic and responsive **News Application** built using **React.js**. This app
 - **CSS / Tailwind CSS / Bootstrap** – for styling (choose based on your project)
 
 ## 📁 Project Structure
-news-app
-├── public
-│ └── index.html
-├── src
-│ ├── components
-│ │ ├── Navbar.js
-│ │ ├── NewsList.js
-│ │ └── NewsItem.js
-│ ├── App.js
-│ ├── index.js
-│ ├── App.css
-│ └── utils (optional helpers)
-├── .env # API keys (if applicable)
-├── package.json
-└── README.md
+news-app├── public│ └── index.html
+├── src│ ├── components │ ├── Navbar.js│ ├── NewsList.j│ │ └── NewsItem.j│ ├── App.js│ ├── index.js│ ├── App.css│ └── utils (optional helpers)├── .env # API keys (if applicable)├── package.json└── README.md
 
 ## 🔧 Setup Instructions
 
